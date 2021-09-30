@@ -1,6 +1,6 @@
 <?php
 
-namespace Mpociot\Documentarian;
+namespace Bchalier\Documentarian;
 
 use Illuminate\Support\Arr;
 use Mni\FrontYAML\Parser;
